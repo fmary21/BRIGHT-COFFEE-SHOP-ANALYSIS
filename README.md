@@ -2,7 +2,7 @@
 TO UNDERSTAND REVENUE TRENDS, CUSTOMER BEHAVIOR AND COME UP WITH STRATEGIES TO CAPTURE CUSTOMER ATTENTION AND DRIVE SALES GROWTH.
 
 # KEY OBSERVATIONS .
-## MONTHLY REVENUE....
+## MONTHLY REVENUE
 
  . Revenue increased from january to june .
  . the Quantity being sold also grew as well showing stable pricing and strategically placed.
